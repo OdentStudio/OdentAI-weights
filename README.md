@@ -26,8 +26,7 @@ The teeth segmentation models used by **ODent5** for AI align and Teeth Seg.
 
 - Download: [`fastteeth-v1.zip`](https://github.com/OdentStudio/OdentAI-weights/releases/tag/fastteeth-v1)
   (about 10 MB) — the two models, their settings, `model.json` and the licence.
-- Author: Dr. Illia Fomenko DMD · published by OdentStudio ·
-  contributors: Dr. Essaid Issam Dakir DMD, Dr. Krasouski Dmitry DMD.
+- Author: Dr. Illia Fomenko DMD · published by OdentStudio.
 - Terms, data sources and citations: `LICENSE.md` inside the zip.
 
 ## Data sources
